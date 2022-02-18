@@ -1,4 +1,13 @@
-### Hi there 👋
+<!-- ### Welcome 👋 -->
+### Welcome to my Profile!
+
+I am a 4th year undergrad at the University of California, Berkeley studying Astrophysics 🌌🔭
+
+My interests are in theoretical and computational astrophysics, high performance algorithms, and a little web design. My github repos consist of various projects I have worked on from analysis of cosmological simulations to teaching intro level programming courses. Along the way there are some interesting projects including games made with python and tools I made such as an automated email writer for mass distribution of information to large classes. 
+
+If you are interested, you can learn more about me at my personal website <a href="http://www.jamessunseri.com">jamessunseri.com</a>
+
+
 
 <!--
 **James11222/James11222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
