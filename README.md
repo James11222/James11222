@@ -1,7 +1,7 @@
 <!-- ### Welcome 👋 -->
 # Welcome to my Profile!  ![](https://komarev.com/ghpvc/?username=James11222&color=blue)
 
-I am a 4th year undergrad at the University of California, Berkeley studying Astrophysics 🌌🔭
+I'm a graduate student studying Astrophysics at Princeton University 🌌🔭
 
 My interests are in theoretical and computational astrophysics, high performance algorithms, and a little web design. My github repos consist of various projects I have worked on from analysis of cosmological simulations to teaching intro level programming courses. Along the way there are some interesting projects including games made with python and tools I made such as an automated email writer for mass distribution of information to large classes. 
 
