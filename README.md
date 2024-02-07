@@ -5,7 +5,7 @@ I'm a graduate student studying Astrophysics at Princeton University 🌌🔭
 
 My interests are in theoretical and computational astrophysics, high performance algorithms, and a little web design. My github repos consist of various projects I have worked on from analysis of cosmological simulations to teaching intro level programming courses. Along the way there are some interesting projects including games made with python and tools I made such as an automated email writer for mass distribution of information to large classes. 
 
-If you are interested, you can learn more about me at my personal website <a href="http://www.jamessunseri.com">jamessunseri.com</a>
+If you are interested, you can learn more about me at my personal website <a href="http://www.james-sunseri.com">james-sunseri.com</a>
 
 
 [![James' GitHub stats](https://github-readme-stats.vercel.app/api?username=James11222&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
